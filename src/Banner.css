@@ -1,0 +1,11 @@
+#banner {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cadetblue;
+    border-radius: 8px;
+    font-size: 2em;
+    font-family: Garamond, "serif";
+    margin-bottom: 10px;
+}
